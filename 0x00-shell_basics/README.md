@@ -1,1 +1,1 @@
-my first readme
+task one shell basics readme
