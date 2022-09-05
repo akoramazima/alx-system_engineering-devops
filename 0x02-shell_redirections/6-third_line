@@ -1,0 +1,2 @@
+#!/bin/bash
+-n 3 my.txt | tail -n iacta
